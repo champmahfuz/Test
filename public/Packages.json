@@ -1,0 +1,83 @@
+[
+    {
+        "packageid": "01",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/v7N33Wi2NTxriJd9PNxz09dq-yAdGWoi.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "02",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/eowIyB9gZi9Q0_GGGw2DFXFOkMT48qOx.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "03",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/v7N33Wi2NTxriJd9PNxz09dq-yAdGWoi.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "04",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/DtJfvWYtSJc0elYWC2okSUrZAJwqGtMo.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "05",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/N1PqMTao_4gp3IwxFZ9D1qvWoFIzJCau.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "06",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/OCHJ3K-tbAXxMnm6PJAhb_xHiGgd2Fmg.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "07",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/eIGm9OJitfv9mXwOcml-2dSz--_pv2Fi.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "08",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/RjC4Y4OnJRmrxKI03YWWQypAPQlFVnHV.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    },
+    {
+        "packageid": "09",
+        "images": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/GoUyH7A1lTnVdZlnM_vGTZmfD3rIrDv-.jpg",
+        "price": "28500",
+        "days": 3,
+        "locations": "Maldives",
+        "category": "Packages",
+        "description": null
+    }
+]

@@ -1,0 +1,9 @@
+// const rsponsivePaper = {
+//     border: '1px solid black',
+//     backgroundColor: { xs: "blue", sm: "red", md: "yellow" },
+//     fontSize: { xs: 16, md: 32 },
+// }
+
+
+ {/* sx={{ display: { xs: "none", sm: "block" } }} */}
+                    <Typography sx={{ color: '#212121', marginTop: '-5px', fontSize: { xs: 15, md: 32 }, marginLeft: { xs: 2 } }}> Book Flight Tickets</Typography>

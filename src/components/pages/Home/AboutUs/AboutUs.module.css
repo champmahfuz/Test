@@ -1,0 +1,25 @@
+.aboutUs {
+  margin: 100px 0;
+}
+
+.aboutUs h2 {
+  margin: 8px 0 0px 0;
+  color: #000b19;
+  font-size: 38px;
+}
+
+.aboutUs h4 {
+  color: rgb(105, 7, 7);
+  font-size: 5rem;
+}
+
+.aboutUs p {
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-align: justify;
+  margin-top: 12px;
+}
+
+.aboutUs img {
+  border-radius: 10px;
+}
